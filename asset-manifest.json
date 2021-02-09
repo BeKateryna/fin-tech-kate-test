@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fin-tech-kate-test/static/css/main.f1817f88.chunk.css",
-    "main.js": "/fin-tech-kate-test/static/js/main.d73973cc.chunk.js",
-    "main.js.map": "/fin-tech-kate-test/static/js/main.d73973cc.chunk.js.map",
+    "main.js": "/fin-tech-kate-test/static/js/main.cebe0923.chunk.js",
+    "main.js.map": "/fin-tech-kate-test/static/js/main.cebe0923.chunk.js.map",
     "runtime-main.js": "/fin-tech-kate-test/static/js/runtime-main.4c055bb4.js",
     "runtime-main.js.map": "/fin-tech-kate-test/static/js/runtime-main.4c055bb4.js.map",
     "static/js/2.60f8314e.chunk.js": "/fin-tech-kate-test/static/js/2.60f8314e.chunk.js",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.4c055bb4.js",
     "static/js/2.60f8314e.chunk.js",
     "static/css/main.f1817f88.chunk.css",
-    "static/js/main.d73973cc.chunk.js"
+    "static/js/main.cebe0923.chunk.js"
   ]
 }
